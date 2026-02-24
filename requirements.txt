@@ -7,7 +7,7 @@ langchain-core
 langchain-huggingface
 langgraph
 
-huggingface-hub>
+huggingface-hub
 
 ddgs
 
